@@ -14,7 +14,8 @@ Help>Redirection->PhenixPad Help Update
 
 2.Problème connus de la mise a jour:
 
--Nous avons rencontré un souci au niveau du chargement de l'icon, en ne peut pas apercevoir l'icon de l'application en haut de la fenêtre, et nous met par défaut l'icon gênera par python . Nous sommes actuellement entrain d'étudier sur ce bug et nous vos publieron une mise à jour dès que nous avons trouvé la solution.
+- Un problème d’affichage à était aperçu dans la fonctionnalité Redirection, il se peut que quand vous redimensionnez la fenêtre qui regroupe tous les pages web de redirection , la re-dimension soit mal prise .
 
+-Nous sommes en train de travailler sur un correctif pour régler ce bug, et une prochaine mise à jour sortira pour régler ce bug.
 
 Prochaine mise à jour le: 16/04/2021
