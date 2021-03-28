@@ -14,7 +14,7 @@ Help>Redirection->PhenixPad Help Update
 
 2.Problème connus de la mise a jour:
 
-- Un problème d’affichage à était aperçu dans la fonctionnalité Redirection, il se peut que quand vous redimensionnez la fenêtre qui regroupe tous les pages web de redirection , la re-dimension soit mal prise .
+- Un problème d’affichage a été aperçu dans la fonctionnalité Redirection, il se peut que quand vous détachez le menu redirection et que vous souhaitez redimensionner la fenêtre de redirection, la re-dimension soit mal prise , et génère une mauvaise re-dimension.
 
 -Nous sommes en train de travailler sur un correctif pour régler ce bug, et une prochaine mise à jour sortira pour régler ce bug.
 
