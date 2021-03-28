@@ -12,10 +12,10 @@ Help>Redirection->PhenixPad Help Update
 
 -Apporte une amélioration sûre c'est composant : La fonctionnalité Help le système standard de Phoenix Pad ,le système de redirection vers une page web.
 
+-Résout un souci ou que quand vous détachez le menu redirection et que vous souhaitez le redimensionner, le programme va mal redimensionnez la fenêtre est peut avoir des soucis d'affichage de texte.
+
 2.Problème connus de la mise a jour:
 
-- Un problème d’affichage a été aperçu dans la fonctionnalité Redirection, il se peut que quand vous détachez le menu redirection et que vous souhaitez redimensionner la fenêtre de redirection, la re-dimension soit mal prise , et génère une mauvaise re-dimension.
-
--Nous sommes en train de travailler sur un correctif pour régler ce bug, et une prochaine mise à jour sortira pour régler ce bug.
+- Aucun Problème n'a etais decouvert  dans la mise a jour 
 
 Prochaine mise à jour le: 16/04/2021
